@@ -1,0 +1,5 @@
+total 16
+-rw-r--r--  1 awdriggs  staff     0 Jan 23 18:37 README.md
+-rw-r--r--@ 1 awdriggs  staff  1076 Jan 23 18:00 add_project.md
+-rw-r--r--  1 awdriggs  staff   873 Jan 23 18:13 create_repo.md
+-rw-r--r--  1 awdriggs  staff     0 Jan 23 20:25 files.txt
