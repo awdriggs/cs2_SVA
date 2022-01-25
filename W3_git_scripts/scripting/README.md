@@ -70,3 +70,5 @@ echo Hello World
 
 [LinkedIn Learning Course](https://www.linkedin.com/learning/learning-linux-shell-scripting-2018/passing-parameters?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=56746073) Note: I borrowed heavily from this!
 
+## More Resources
+[Scripting Guide](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc4)
