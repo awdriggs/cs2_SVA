@@ -1,6 +1,33 @@
 # Bash Scripting
 
 ## Pipes, &&, Redirects
+- `|` (pipes) &rarr; sends the results of a command to the next command.
+- `&&` &rarr; completes commands in sequence as long as there are no errors.
+- `;` &rarr; also completes commands in sequence, ignores errors.
+- `>>` &rarr; appends result of a command to a file
+- `>` &rarr; takes the result of a command and save to a file, will overwrite!
+
+Examples, 
+
+1) list the files, send to cat, then redirect and store in a file.
+```bash
+ ls | cat > files.txt
+```
+
+2) change directory then ls files
+```bash
+cd somdir/ && ls
+```
+
+3) Add a Line with the redirect 
+```bash
+echo "End of Directory" » files.txt
+```
+ 
+4) Grab the Contents of a Website and Save
+```bash
+curl http://wttr.in/Brooklyn >> weather.txt
+```
 
 ## Simple Script 
 - Use `touch hello.sh` to create a new file
@@ -42,3 +69,4 @@ echo Hello World
 - Example output `./likes.sh adam coffee` will print to the terminal `Adam likes coffee`
 
 [LinkedIn Learning Course](https://www.linkedin.com/learning/learning-linux-shell-scripting-2018/passing-parameters?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=56746073) Note: I borrowed heavily from this!
+
