@@ -49,4 +49,13 @@ To exit insert mode press the escape key.
 
 Type `:w` to save and then `:q` to quit.
 
-There is a lot more to vim! 
+There is a lot more to vim!
+
+# What Next?
+Here are some things you can do with your new server!
+- [Bedrock Minecraft Server!](https://www.astralinternet.com/en/tutorial/create-a-minecraft-bedrock-server-on-ubuntu-20-04/)
+- [Java Minecraft Server!](https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-20-04)
+- [VPN Server](https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-20-04)
+- [Web Server](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)
+- [Counter Strike Server](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers)
+- [ARK Server](https://ark.fandom.com/wiki/Dedicated_server_setup)
