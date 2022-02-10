@@ -6,5 +6,6 @@ Repository for examples from class.
 - [Week 2 - More bash](W2_more_bash/)
 - [Week 3 - Git / Scripting](W3_git_scripts/)
 - Week 4 - No Class, Renderfarm Workshop
-- [Week 5 - Git / Scripting](W5_scripts_servers)
+- [Week 5 - Scripting](W5_scripts_servers)
+- [Week 5 - Scripting + servers](W6_scripts_servers)
 
