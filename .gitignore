@@ -1,6 +1,6 @@
 #ignore the future
 future/
-
+solution*
 #pesky DS file
 
 .DS_Store
