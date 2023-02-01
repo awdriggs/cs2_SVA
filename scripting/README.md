@@ -1,5 +1,11 @@
 # Scripting Part 2
 
+## Getting Started
+1. Touch a new file `touch filename.sh`
+2. Make it executable `chmod 775 filename.sh`
+3. Open in your favorite code editor.
+4. Run it! `./filename.sh
+
 ## Hello World Script
 ```bash
 echo hello world!
