@@ -3,7 +3,7 @@ CONTINUE=1
 while : #endless while 
 do
   read -p "Should I continue? y/n " INPUT
-  if [[ $INPUT == "y" ]]
+  if [ $INPUT == "y" ]
   then
     echo "ok"
    continue 
@@ -13,4 +13,4 @@ done
  
 echo "see you later" 
  
-read -p "prompt" RESPONSE
+# read -p "prompt" RESPONSE
